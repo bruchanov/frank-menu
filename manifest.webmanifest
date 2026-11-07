@@ -1,0 +1,22 @@
+{
+ "name": "Меню Frank by Basta",
+ "short_name": "Меню",
+ "lang": "ru",
+ "start_url": "./",
+ "display": "standalone",
+ "background_color": "#1d1d1c",
+ "theme_color": "#1d1d1c",
+ "icons": [
+  {
+   "src": "icons/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icons/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  }
+ ]
+}
